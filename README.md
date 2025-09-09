@@ -61,6 +61,8 @@ Lecturer Features
 
 Create Consultation Slots – Define weekly or one-time slots for student meetings.
 View Bookings – See which students booked available slots.
+<img width="1917" height="885" alt="image" src="https://github.com/user-attachments/assets/8bb4fd8e-5bfe-401c-b8b0-15fcd784ddf3" />
+
 Manage Slots – Update, edit, or cancel consultation timings.
 
 
