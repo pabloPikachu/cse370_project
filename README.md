@@ -48,6 +48,8 @@ Student Features
 
 View Facilities – Browse available labs, classrooms, or seminar halls.
 Make Booking – Submit a request for a facility with preferred date/time.
+<img width="1917" height="921" alt="image" src="https://github.com/user-attachments/assets/70d9b720-707e-43c3-93f6-8376f6d6e067" />
+
 Book Consultation – Select available lecturer slots and confirm booking.
 Check My Bookings – Track approval status (Pending/Approved/Rejected).
 Receive Notifications – Stay updated about booking approvals/rejections.
@@ -75,6 +77,8 @@ Approve/Reject Requests – Decide availability of facilities.
 Manage Facilities – Add, update, or remove resources (labs, halls, rooms).
 System Oversight – Monitor all bookings, users, and notifications.
 Notifications – Receive booking requests and send approval updates.
+<img width="1916" height="917" alt="image" src="https://github.com/user-attachments/assets/27516975-ceca-4a00-a8d7-7328f09255bf" />
+
 
 
 5. System Rules & Logic
@@ -84,7 +88,11 @@ Facility Booking
 
 
   Student requests → marked as Pending.
+<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/8477cd45-999e-4126-b7db-f5cb90c6e003" />
+
   Admin approves/rejects → status updated accordingly.
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/88adecd1-7790-4679-babe-b144dbfb800c" />
+
 
 
 Admin Booking
